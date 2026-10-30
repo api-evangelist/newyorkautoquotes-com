@@ -64,5 +64,97 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-newyorkautoquotes-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://newyorkautoquotes.com/
+New York Auto Quotes provides auto insurance quotes in New York from licensed agents without requiring a phone number. Users can obtain price estimates by entering vehicle and driver information, and the service connects them with up to four licensed agents who confirm the quotes. The platform emphasizes privacy, allowing users to withdraw requests and ensuring no personal data is sold without consent. It is operated by TheChattyAI under the CoverIntent brand.
+
+**Areas:** Insurance · Quotes · NewYork · AI · Platform
+
+## newyorkautoquotes-com on APIs.io
+
+Everything profiled for newyorkautoquotes-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/newyorkautoquotes-com/](https://apis.io/providers/newyorkautoquotes-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [New York Insurance API](https://apis.io/apis/newyorkautoquotes-com/new-york-insurance-api/) — Indicative US personal auto insurance prices for AI agents acting on behalf of a consumer in New York.
+- [New York Insurance Api API](https://apis.io/apis/newyorkautoquotes-com/new-york-insurance-api-api/) — New York Insurance: Indicative US personal auto insurance prices for AI agents acting on behalf of a consumer in New York, and a consented path to licensed…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [newyorkautoquotes-com API Rules](https://apis.io/rules/newyorkautoquotes-com/newyorkautoquotes-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Newyorkautoquotes Com Domain Security](https://apis.io/security/newyorkautoquotes-com/newyorkautoquotes-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://newyorkautoquotes.com/)
+- [Getting started](https://newyorkautoquotes.com/?format=md)
+- [API reference](https://newyorkautoquotes.com/openapi.json)
+- [Pricing](https://newyorkautoquotes.com/rates)
+- [Sign up](https://newyorkautoquotes.com/join)
+- [Support](https://newyorkautoquotes.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 31.3** — thin · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 61.7 |
+| Contract quality | 35.5 |
+| Contract governance | 65.5 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 23.8 |
+| Access clarity | 23.7 |
+
+**Agent readiness 27.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 9.0** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/newyorkautoquotes-com/](https://apis.io/providers/newyorkautoquotes-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for newyorkautoquotes-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/newyorkautoquotes-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
